@@ -5,7 +5,10 @@
   margin-bottom: 10px;
 }
 
+.form-field:last-child {
+  margin-bottom: 0;
+}
+
 .forField {
   margin-bottom: 20px;
-  padding-bottom: 0;
 }
